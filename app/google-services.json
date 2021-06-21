@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037177527936",
+    "project_id": "ufitness-54fea",
+    "storage_bucket": "ufitness-54fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037177527936:android:6f0710c071d336a82f1065",
+        "android_client_info": {
+          "package_name": "com.example.ufitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037177527936-8qleoisu0i5pri07eotm0n779mpkg108.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppqgGqVxp2N3SNjyEjbiBHZGNbP7PGS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037177527936-8qleoisu0i5pri07eotm0n779mpkg108.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name = "UFitness"
+include ':app'
